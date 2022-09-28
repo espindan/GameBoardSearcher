@@ -1,0 +1,27 @@
+
+/* Class = "UITextField"; placeholder = "danny@fiserv.com"; ObjectID = "9JR-Md-Zsx"; */
+"9JR-Md-Zsx.placeholder" = "danny@fiserv.com";
+
+/* Class = "UITextField"; text = "danny@fiserv.com"; ObjectID = "9JR-Md-Zsx"; */
+"9JR-Md-Zsx.text" = "danny@fiserv.com";
+
+/* Class = "UILabel"; text = "Your Email"; ObjectID = "AZK-A1-gcE"; */
+"AZK-A1-gcE.text" = "Your Email";
+
+/* Class = "UITextField"; text = "sssss"; ObjectID = "MhD-MW-tjI"; */
+"MhD-MW-tjI.text" = "sssss";
+
+/* Class = "UIButton"; configuration.title = "Log in"; ObjectID = "a3o-6l-0Zy"; */
+"a3o-6l-0Zy.configuration.title" = "Log in";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a3o-6l-0Zy"; */
+"a3o-6l-0Zy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Forgot password?"; ObjectID = "cUo-hP-pwb"; */
+"cUo-hP-pwb.text" = "Forgot password?";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "hNe-4G-Hga"; */
+"hNe-4G-Hga.text" = "Password";
+
+/* Class = "UILabel"; text = "Log In"; ObjectID = "xDs-7F-wyl"; */
+"xDs-7F-wyl.text" = "Log In";
